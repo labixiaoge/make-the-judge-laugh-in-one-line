@@ -1,9 +1,1 @@
-{
-  "description": "make.fun bounty entry: one funny line to make the judge laugh",
-  "license": "MIT",
-  "main": "main.ts",
-  "name": "make-the-judge-laugh-in-one-line",
-  "private": true,
-  "type": "module",
-  "version": "1.0.0"
-}
+{"description":"make.fun bounty entry: one funny line to make the judge laugh","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"make-the-judge-laugh-in-one-line","private":true,"type":"module","version":"1.0.0"}
